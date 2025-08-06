@@ -85,6 +85,3 @@ npm run serve
   npm run test:e2e
   ```
 
-## License
-
-This project is licensed under the MIT License.
